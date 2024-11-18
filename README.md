@@ -26,7 +26,7 @@ Clone the Repository
 
 bash-
 Copy code
-git clone https://github.com/yourusername/traceme.git
+git clone https://github.com/humaira0316/traceme.git
 cd traceme
 Install Required Packages
 
